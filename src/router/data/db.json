@@ -1,0 +1,10 @@
+{
+    "jobs":[
+        {"title":"eric","id":1,"details":"lorem"},
+        {"title":"lynet","id":2,"details":"lorem"},
+        {"title":"faith","id":3,"details":"lorem"}
+
+
+    ]
+  
+}
